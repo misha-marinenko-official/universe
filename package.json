@@ -1,0 +1,31 @@
+{
+  "name": "universe",
+  "version": "0.0.0",
+  "description": "The Linux servers management tool written in nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --check index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misha-marinenko-official/universe.git"
+  },
+  "keywords": [
+    "linux",
+    "sysadmins",
+    "tools",
+    "universe",
+    "management"
+  ],
+  "author": "Misha Marinenko <misha@marinenko.rf.gd>",
+  "license": "Unlicensed",
+  "bugs": {
+    "url": "https://github.com/misha-marinenko-official/universe/issues"
+  },
+  "homepage": "https://github.com/misha-marinenko-official/universe#readme",
+  "dependencies": {
+    "consola": "^2.0.2",
+    "express": "^4.16.4",
+    "prompt": "^1.0.0"
+  }
+}
